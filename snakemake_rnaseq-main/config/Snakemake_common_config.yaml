@@ -1,0 +1,2 @@
+samples: config/Snakemake_common_config.yaml
+comparison: "config/comparisons.csv"
